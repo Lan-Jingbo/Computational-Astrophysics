@@ -1,0 +1,3 @@
+param 16 0.01
+single cluster pos uni mass uni vel ivi psi 1.0
+END

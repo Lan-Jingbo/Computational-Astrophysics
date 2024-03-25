@@ -1,0 +1,5 @@
+param 1024 0.0001
+subc 4 0.35 pos uni mass uni vel ivi psi 0.7
+cluster pos pow alpha 1.0 mass uni vel ivi rep 2
+cluster pos pow alpha 1.8 mass uni vel ivi rep 2
+END

@@ -1,0 +1,114 @@
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.2810e+05 K = 3.1383e+05 E = -3.1427e+05 psi =   1.0007
+steps =     5000 t =  0.48920 W = -6.3303e+05 K = 3.1876e+05 E = -3.1427e+05 psi =  0.99295
+steps =    10000 t =  0.95642 W = -6.4651e+05 K = 3.3224e+05 E = -3.1427e+05 psi =  0.97295
+time: 34 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.3352e+05 K = 3.1624e+05 E = -3.1728e+05 psi =   1.0016
+steps =     5000 t =  0.62463 W = -6.4179e+05 K = 3.2451e+05 E = -3.1728e+05 psi =  0.98886
+steps =    10000 t =   1.0798 W = -6.4579e+05 K = 3.2851e+05 E = -3.1728e+05 psi =  0.98291
+time: 34 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.2866e+05 K = 3.1470e+05 E = -3.1395e+05 psi =  0.99881
+steps =     5000 t =  0.58862 W = -6.4148e+05 K = 3.2753e+05 E = -3.1395e+05 psi =  0.97928
+steps =    10000 t =   1.0168 W = -6.5191e+05 K = 3.3795e+05 E = -3.1395e+05 psi =  0.96449
+time: 33 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.2135e+05 K = 3.1297e+05 E = -3.0837e+05 psi =  0.99265
+steps =     5000 t =  0.67023 W = -6.3283e+05 K = 3.2446e+05 E = -3.0837e+05 psi =  0.97520
+steps =    10000 t =   1.1621 W = -6.3493e+05 K = 3.2656e+05 E = -3.0837e+05 psi =  0.97215
+time: 33 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.2543e+05 K = 3.1878e+05 E = -3.0666e+05 psi =  0.98099
+steps =     5000 t =  0.44995 W = -6.3336e+05 K = 3.2670e+05 E = -3.0666e+05 psi =  0.96933
+steps =    10000 t =  0.90314 W = -6.4861e+05 K = 3.4195e+05 E = -3.0666e+05 psi =  0.94839
+time: 33 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.3176e+05 K = 3.2030e+05 E = -3.1146e+05 psi =  0.98620
+steps =     5000 t =  0.59655 W = -6.3961e+05 K = 3.2815e+05 E = -3.1146e+05 psi =  0.97456
+steps =    10000 t =  0.99811 W = -6.4745e+05 K = 3.3599e+05 E = -3.1146e+05 psi =  0.96349
+time: 33 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.2911e+05 K = 3.1406e+05 E = -3.1505e+05 psi =   1.0016
+steps =     5000 t =  0.55798 W = -6.3671e+05 K = 3.2167e+05 E = -3.1505e+05 psi =  0.98971
+steps =    10000 t =   1.0322 W = -6.4728e+05 K = 3.3223e+05 E = -3.1505e+05 psi =  0.97414
+time: 33 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.2855e+05 K = 3.1623e+05 E = -3.1233e+05 psi =  0.99383
+steps =     5000 t =  0.66895 W = -6.4839e+05 K = 3.3606e+05 E = -3.1232e+05 psi =  0.96468
+steps =    10000 t =   1.2061 W = -6.5463e+05 K = 3.4231e+05 E = -3.1232e+05 psi =  0.95621
+time: 34 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.2774e+05 K = 3.0813e+05 E = -3.1961e+05 psi =   1.0186
+steps =     5000 t =  0.66797 W = -6.5099e+05 K = 3.3137e+05 E = -3.1961e+05 psi =  0.98225
+steps =    10000 t =   1.1368 W = -6.6555e+05 K = 3.4594e+05 E = -3.1961e+05 psi =  0.96195
+time: 34 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.3240e+05 K = 3.1501e+05 E = -3.1739e+05 psi =   1.0038
+steps =     5000 t =  0.60272 W = -6.5751e+05 K = 3.4012e+05 E = -3.1739e+05 psi =  0.96658
+steps =    10000 t =  0.98824 W = -6.7163e+05 K = 3.5425e+05 E = -3.1739e+05 psi =  0.94798
+time: 34 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.2295e+05 K = 3.1581e+05 E = -3.0715e+05 psi =  0.98629
+steps =     5000 t =  0.61755 W = -6.3723e+05 K = 3.3008e+05 E = -3.0715e+05 psi =  0.96527
+steps =    10000 t =   1.1343 W = -6.4240e+05 K = 3.3525e+05 E = -3.0715e+05 psi =  0.95809
+time: 34 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 1024, N = 1024
+Allocating memory
+Integrator ready
+generating 1024 galaxies
+steps =        0 t =   0.0000 W = -6.2265e+05 K = 3.1800e+05 E = -3.0465e+05 psi =  0.97901
+steps =     5000 t =  0.50476 W = -6.2831e+05 K = 3.2367e+05 E = -3.0465e+05 psi =  0.97062
+steps =    10000 t =  0.86493 W = -6.3613e+05 K = 3.3148e+05 E = -3.0465e+05 psi =  0.95953
+time: 34 seconds
+Initialising integrator structures:
+Simulation Block Size nbs = 256, gbs = 2048, N = 2048
+Allocating memory
+Integrator ready
+generating 2048 galaxies
+steps =        0 t =   0.0000 W = -2.5011e+06 K = 1.2586e+06 E = -1.2426e+06 psi =  0.99364
