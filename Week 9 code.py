@@ -8,9 +8,9 @@ M1 = 1.
 #number of frames
 sim_duration = 2000
 # Computational timestep
-dt = 0.1
+dt = 0.01
 # timesteps per frame
-frame_interval = 5
+frame_interval = 10
 
 TestMassColour = 'cyan'
 
@@ -119,7 +119,7 @@ for pt in range(36):
 pn = np.array(pp)
 
 testParticles = TestMassArray(pn[:,0], pn[:,1])
-perturberGalaxy = Perturber([-20.,8.,0.],[2.,0.,0.],1.)
+perturberGalaxy = Perturber([-20,20,20],[5,-5.,-5],10)
 
 plt.ioff()
 plt.style.use('dark_background')
